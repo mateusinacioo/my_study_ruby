@@ -7,9 +7,7 @@ def minSum(a)
     # 7
 	
 	result = min_val * (len-1)
-                 
-
 end
 # driver code
-a = [2, 4, 5, 3, 4, 9]
+a = [3, 6, 2, 8, 7, 5]
 p minSum(a)
